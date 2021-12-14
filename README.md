@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Letrixix
+- 👀 I’m interested in learning python.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 Don't reach me :D
